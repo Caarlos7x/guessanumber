@@ -6,7 +6,7 @@ Page to save favorite Github profiles.
 
 [Figma original project](https://www.figma.com/file/e3JPDZcGjdoi2lGCOWtaox/Jogo-Adivinha%C3%A7%C3%A3o-(Copy)?node-id=5%3A91)
 
-[Deploy] ()
+[Deploy](https://caarlos7x.github.io/guessanumber/)
 
 ## 🚀 Getting Started -
 
